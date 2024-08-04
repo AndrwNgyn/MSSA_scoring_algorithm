@@ -23,59 +23,63 @@
     ],
     "CMI_bins": [
         {
-            "CMI_value": [0, 1.341],
-            "value": 0
+            "CMI_value": [0, 1.102],
+            "value": 5
         },
         {
-            "CMI_value": [1.341, 1.442],
-            "value": 1
-        },
-        {
-            "CMI_value": [1.442, 1.558],
-            "value": 2
-        },
-        {
-            "CMI_value": [1.558, 1.626],
-            "value": 3
-        },
-        {
-            "CMI_value": [1.626, 1.922],
+            "CMI_value": [1.102, 1.229],
             "value": 4
         },
         {
-            "CMI_value": [1.922, 1000],
-            "value": 5
+            "CMI_value": [1.229, 1.379],
+            "value": 3
+        },
+        {
+            "CMI_value": [1.379, 1.509],
+            "value": 2
+        },
+        {
+            "CMI_value": [1.509, 1.737],
+            "value": 1
+        },
+        {
+            "CMI_value": [1.737, 1000],
+            "value": 0
         }
     ],
     "mortality_bins":[
         {
-            "mortality_rate": [0, 5.298],
+            "mortality_rate": [0, 5.915],
             "value": 0
         },
         {
-            "mortality_rate": [5.298, 6.375],
+            "mortality_rate": [5.914, 7.193],
             "value": 1
         },
         {
-            "mortality_rate": [6.375, 7.193],
+            "mortality_rate": [7.193, 8.509],
             "value": 2
         },
         {
-            "mortality_rate": [7.193, 7.890],
+            "mortality_rate": [8.509, 10.204],
             "value": 3
         },
         {
-            "mortality_rate": [7.890, 10.204],
+            "mortality_rate": [10.204, 14.368],
             "value": 4
         },
         {
-            "mortality_rate": [10.204, 1000],
+            "mortality_rate": [14.368, 1000],
             "value": 5
         }
     ],
     "range_multiplier_bins": [
         {
-            "range_km": [0, 10.62],
+            "range_km": [0, 1.1],
+            "multiplier": 1
+        },
+        {
+            "range_km": [1.1, 10.62],
             "multiplier": 1.5
         },
         {
